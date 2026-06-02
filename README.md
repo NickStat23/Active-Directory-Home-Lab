@@ -60,9 +60,14 @@ Beyond initial deployment, the environment serves as a sandbox for executing rou
 * **Helpdesk Support Simulation:** Practiced responding to common administrative tickets including manual password resets and unlocking accounts triggered by brute-force lockouts.
 
 ---
+## 📌 Credits
+
+Lab inspired by and built following [Josh Madakor's](https://www.youtube.com/@JoshMadakor) Active Directory home lab tutorial.
+
+---
 
 ## 🙋 Author
 
-**Your Name**  
+**Nick Efstathiou**
 Cybersecurity | System Administration | Home Lab  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/NickStat23)
