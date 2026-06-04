@@ -66,7 +66,11 @@ Lab inspired by and built following [Josh Madakor's](https://www.youtube.com/@Jo
 
 ---
 
+## Disclaimer
+All activities documented in this project were performed on a privately owned, isolated home lab network. No external systems, public infrastructure, or third-party networks were targeted or affected. This project is for educational and portfolio purposes only.
 ## 🙋 Author
+
+---
 
 **Nicholas Efstathiou**
 Cybersecurity | System Administration | Home Lab  
